@@ -1,0 +1,22 @@
+body{
+  background-image : url("../images/back.jpeg");
+  text-align: center;
+}
+
+h2{
+  color: #263238;
+}
+
+h3{
+  color: #263238;
+}
+
+.foot {
+  position: fixed;
+  bottom: 0;
+  color: #263238;
+  font-size: 12px;
+  font-weight:bolder;
+  width: 100%;
+  text-align: center;
+}
